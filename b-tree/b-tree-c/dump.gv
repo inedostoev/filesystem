@@ -1,0 +1,26 @@
+digraph G{
+node0x1a44130 [
+shape=plaintext label = < <table border='1' cellborder='1'>
+<tr><td port='port0'> </td><td>4<br/>0</td><td port='port1'> </td><td>6<br/>0</td><td port='port2'> </td><td>8<br/>0</td><td port='port3'> </td>
+</tr></table> >]
+node0x1a44130:port0 -> node0x1a44010
+node0x1a44010 [
+shape=plaintext label = < <table border='1' cellborder='1'>
+<tr><td port='port0'> </td><td>1<br/>0</td><td port='port1'> </td><td>2<br/>0</td><td port='port2'> </td><td>3<br/>0</td><td port='port3'> </td>
+</tr></table> >]
+node0x1a44130:port1 -> node0x1a440a0
+node0x1a440a0 [
+shape=plaintext label = < <table border='1' cellborder='1'>
+<tr><td port='port0'> </td><td>5<br/>0</td><td port='port1'> </td><td>0<br/>0</td><td port='port2'> </td><td>0<br/>0</td><td port='port3'> </td>
+</tr></table> >]
+node0x1a44130:port2 -> node0x1a441c0
+node0x1a441c0 [
+shape=plaintext label = < <table border='1' cellborder='1'>
+<tr><td port='port0'> </td><td>7<br/>0</td><td port='port1'> </td><td>0<br/>0</td><td port='port2'> </td><td>0<br/>0</td><td port='port3'> </td>
+</tr></table> >]
+node0x1a44130:port3 -> node0x1a44250
+node0x1a44250 [
+shape=plaintext label = < <table border='1' cellborder='1'>
+<tr><td port='port0'> </td><td>9<br/>0</td><td port='port1'> </td><td>10<br/>0</td><td port='port2'> </td><td>11<br/>0</td><td port='port3'> </td>
+</tr></table> >]
+}
